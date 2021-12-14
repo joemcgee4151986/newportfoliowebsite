@@ -7414,3 +7414,22 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+  nav li{
+    text-align: center;
+    text-transform: uppercase;
+}
+li > a:after{
+    content: '';
+    display: block;
+    height: 1.5px;
+    background: white;
+    transform: scaleX(0);
+    transition: transform .3s;
+}
+li > a:hover:after{
+    transform: scaleX(1);
+    transition: transform .3s;
+}
+.active{
+    color: white !important;
+}
