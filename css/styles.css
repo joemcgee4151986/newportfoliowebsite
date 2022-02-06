@@ -7437,3 +7437,6 @@ li > a:hover:after{
     color: white !important;
 } 
 
+.clickable {
+  cursor: pointer;
+}
