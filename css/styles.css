@@ -1784,6 +1784,7 @@ textarea.form-control {
     cursor: pointer;
     padding: 10px;
     border-radius: 4px;
+    display: none;
   }
 
 @media (prefers-reduced-motion: reduce) {
