@@ -15,7 +15,13 @@ This website was made to showcase my work and to connect with others.
 </ul>
 <b>Tech Used / Dependencies</b>
 
-This website was made using a template from https://github.com/StartBootstrap/startbootstrap-freelancer 
+This website was made using a template from <a href = https://github.com/StartBootstrap/startbootstrap-freelancer>Start Bootstrap - Freelancer</a> 
+
+<ul>
+  <li><a href = https://iconify.design/>iconify</a></li>
+  <li><a href = https://fontawesome.com/>fontawesome</a></li>
+  <li><a href = https://startbootstrap.com/>startbootstrap</a></li>
+</ul>
 
 <b>Running the project locally</b>
 <ol>
